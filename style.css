@@ -1,0 +1,68 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+.my-profile{
+   padding-top: 25px;
+   padding-bottom: 25px;
+   display: inline-block;
+   
+
+}
+.half-part{
+    width: 45%;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+   height: 100%;
+    
+}
+.half-part img{
+     width: 100%;
+     
+}
+.name-color{
+    color: burlywood
+}
+h1{
+    font-weight: 900;
+    font-size: 60px;
+}
+.first-button{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    background-image: linear-gradient(pink, rgb(151, 48, 117));
+}
+.third-part{
+    width: 30%;
+    float: left;
+    padding: 2px;
+    margin: 2px;
+    
+}
+.third-part img{
+    width: 100%;
+}
+.work-inquery{
+    display: inline-block;
+     background-image: url("images/background-image.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 5px 450px;
+    margin: 100px;
+    border-radius: 30px;
+      
+   }
+   .project-title{
+       text-align: center;
+       padding: 30px;
+       margin: 30px;
+   }   
+   
